@@ -1,0 +1,3 @@
+b *0x400AC4
+b *0x400A21
+heap-analysis-helper
